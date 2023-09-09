@@ -22,3 +22,6 @@
 
 #Exclude default file storage directory
 /upload/
+
+*:Zone.Identifier
+*_Zone.Identifier
